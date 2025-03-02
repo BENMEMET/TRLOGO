@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240211">
+<channel id="TRT1.tr"><display-name>TRT 1</display-name><icon src="https://i.hizliresim.com/4qfi773.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRT2.tr"><display-name>TRT 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRT3.tr"><display-name>TRT 3</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/7/75/Trt3_spor.png/revision/latest?cb=20121222012706"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTAvaz.tr"><display-name>TRT Avaz</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTBelgesel.tr"><display-name>TRT Belgesel</display-name><icon src="https://i.hizliresim.com/j6qcl8e.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTDiyanetCocuk.tr"><display-name>TRT Diyanet Cocuk</display-name><icon src="https://i.imgur.com/8PmXz9t.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><icon src="https://i.hizliresim.com/tix49xg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTMuzik.tr"><display-name>TRT Muzik</display-name><icon src="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTSpor.tr"><display-name>TRT Spor</display-name><icon src="https://i.hizliresim.com/gu8gjrs.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr"><display-name>TRT Spor Yildiz</display-name><icon src="https://i.hizliresim.com/hdgh1ja.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://i.hizliresim.com/jhr0ipy.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ATV.tr"><display-name>ATV</display-name><icon src="https://i.hizliresim.com/hrbbce4.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KanalD.tr"><display-name>Kanal D</display-name><icon src="https://i.hizliresim.com/33yo5h0.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ShowTV.tr"><display-name>Show TV</display-name><icon src="https://i.hizliresim.com/33unoqn.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Now.tr"><display-name>Now</display-name><icon src="https://i.hizliresim.com/ecblxwe.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Kanal7.tr"><display-name>Kanal 7</display-name><icon src="https://i.hizliresim.com/461fpzl.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://i.hizliresim.com/m8jrqvv.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="StarTV.tr"><display-name>Star TV</display-name><icon src="https://i.hizliresim.com/migmz9e.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><icon src="https://i.hizliresim.com/5q2r7s5.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="360.tr"><display-name>360</display-name><icon src="https://i.hizliresim.com/rs5is15.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="A2TV.tr"><display-name>A2TV</display-name><icon src="https://i.hizliresim.com/28jvw2z.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Teve2.tr"><display-name>Teve2</display-name><icon src="https://i.hizliresim.com/kszfr7w.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TV4.tr"><display-name>TV 4</display-name><icon src="https://i.postimg.cc/FKkHW8KK/tv4.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="24TV.tr"><display-name>24 TV</display-name><icon src="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="AHaber.tr"><display-name>A Haber</display-name><icon src="https://i.hizliresim.com/itsq4ly.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="AkitTV.tr"><display-name>Akit TV</display-name><icon src="https://i.hizliresim.com/j73l94g.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="BenguturkTV.tr"><display-name>Benguturk TV</display-name><icon src="https://i.hizliresim.com/8p6fgv5.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><icon src="https://i.hizliresim.com/tk9yrur.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Ekol.tr"><display-name>Ekol</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanalının_Logosu.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="FlashTV.tr"><display-name>Flash TV</display-name><icon src="https://i.hizliresim.com/dtrcsdb.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="HaberGlobal.tr"><display-name>Haber Global</display-name><icon src="https://i.hizliresim.com/feh0kss.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="HaberturkTV.tr"><display-name>Haberturk TV</display-name><icon src="https://i.hizliresim.com/taf0cdp.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="HalkTV.tr"><display-name>Halk TV</display-name><icon src="https://i.hizliresim.com/fr4aozf.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KRT.tr"><display-name>KRT</display-name><icon src="https://i.hizliresim.com/53ikzl0.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="LiderHaber.tr"><display-name>Lider Haber</display-name><icon src="https://i.imgur.com/5B42KwY.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="NTV.tr"><display-name>NTV</display-name><icon src="https://i.hizliresim.com/1vba1pt.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="SozcuTV.tr"><display-name>Sozcu TV</display-name><icon src="https://i.hizliresim.com/k1w9t1o.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Tele1.tr"><display-name>Tele 1</display-name><icon src="https://i.hizliresim.com/cfb1zg7.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TGRTHaber.tr"><display-name>TGRT Haber</display-name><icon src="https://i.hizliresim.com/8f6osng.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TurkHaberTV.tr"><display-name>TurkHaber TV</display-name><icon src="https://i.hizliresim.com/4pk4v3t.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TV100.tr"><display-name>TV 100</display-name><icon src="https://i.hizliresim.com/tvzgv3f.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TVNET.tr"><display-name>TVNET</display-name><icon src="https://i.hizliresim.com/ttm3ti5.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="UlkeTV.tr"><display-name>Ulke TV</display-name><icon src="https://i.hizliresim.com/i425gx6.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.hizliresim.com/o7jjn79.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="BloombergHT.tr"><display-name>Bloomberg HT</display-name><icon src="https://i.hizliresim.com/m3hjic8.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="APara.tr"><display-name>A Para</display-name><icon src="https://i.hizliresim.com/7xaw912.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TGRTBelgesel.tr"><display-name>TGRT Belgesel</display-name><icon src="https://i.hizliresim.com/68ea0ds.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TLC.tr"><display-name>TLC</display-name><icon src="https://i.hizliresim.com/o6w42nk.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="DMAX.tr"><display-name>DMAX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"/><url>https://tvplus.com.tr</url></channel>
+
+
+
+<channel id="CiftciTV.tr"><display-name>Ciftci TV</display-name><icon src="https://i.imgur.com/CLzP4vL.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TV85.tr"><display-name>TV 8.5</display-name><icon src="https://i.hizliresim.com/qwela56.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="FBTV.tr"><display-name>FB TV</display-name><icon src="https://i.hizliresim.com/8f6shbr.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ASpor.tr"><display-name>A Spor</display-name><icon src="https://i.hizliresim.com/l8z0hop.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="beINSports.tr"><display-name>beIN Sports Haber</display-name><icon src="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="GSTV.tr"><display-name>GS TV</display-name><icon src="https://i.hizliresim.com/6gq6fcj.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="SportsTV.tr"><display-name>Sports TV</display-name><icon src="https://i.hizliresim.com/17x377z.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ATVAvrupa.tr"><display-name>ATV Avrupa</display-name><icon src="https://i.imgur.com/0tm3tui.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="EuroD.tr"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="EuroStar.tr"><display-name>EuroStar</display-name><icon src="https://i.imgur.com/kb165Ot.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="Kanal7Avrupa.tr"><display-name>Kanal 7 Avrupa</display-name><icon src="https://i.imgur.com/wlfyj5l.png"/><url>https://vivacom.bg</url></channel>
+<channel id="TGRTEU.tr"><display-name>TGRT EU</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png"/><url>https://tv.blue.ch</url></channel>
+<channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><icon src="https://i.imgur.com/VCywMTv.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="MinikaGo.tr"><display-name>Minika Go</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Tivi6.tr"><display-name>Tivi 6</display-name><icon src="https://i.imgur.com/Mbi0jbz.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="BeykentTV.tr"><display-name>Beykent TV</display-name><icon src="https://i.imgur.com/Zv65ns5.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="BizimevTV.tr"><display-name>Bizimev TV</display-name><icon src="https://i.imgur.com/eJa6sFY.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="BRT1.cy"><display-name>BRT 1</display-name><icon src="https://i.imgur.com/gOPAi2c.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="BRT2.cy"><display-name>BRT 2</display-name><icon src="https://i.imgur.com/t5kbIuj.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="CemTV.tr"><display-name>Cem TV</display-name><icon src="https://i.imgur.com/x5YNUfz.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="DiyanetTV.tr"><display-name>Diyanet TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="DreamTurk.tr"><display-name>Dream Turk</display-name><icon src="https://i.imgur.com/vJ8VaZi.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="EBATVIlkokul.tr"><display-name>EBA TV Ilkokul</display-name><icon src="https://i.imgur.com/8tKZWlk.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="EBATVLise.tr"><display-name>EBA TV Lise</display-name><icon src="https://i.imgur.com/9YMn0fo.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="EBATVOrtaokul.tr"><display-name>EBA TV Ortaokul</display-name><icon src="https://i.imgur.com/2Lfmkmt.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ESTV.tr"><display-name>ES TV</display-name><icon src="https://i.imgur.com/epAEBrp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="FMTV.tr"><display-name>FM TV</display-name><icon src="https://i.imgur.com/nCzpHWM.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KadirgaTV.tr"><display-name>Kadirga TV</display-name><icon src="https://i.imgur.com/J4zra7Y.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Kanal3.tr"><display-name>Kanal 3</display-name><icon src="https://i.imgur.com/eXErSv0.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Kanal23.tr"><display-name>Kanal 23</display-name><icon src="https://i.imgur.com/3br8RCq.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Kanal26.tr"><display-name>Kanal 26</display-name><icon src="https://i.imgur.com/Mr7XPii.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Kanal28.tr"><display-name>Kanal 28</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="Kanal33.tr"><display-name>Kanal 33</display-name><icon src="https://i.imgur.com/5WYaoFZ.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Kanal42.tr"><display-name>Kanal 42</display-name><icon src="https://i.imgur.com/THKbFfE.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="KanalB.tr"><display-name>Kanal B</display-name><icon src="https://i.imgur.com/bUsbxTQ.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="KanalFirat.tr"><display-name>Kanal Firat</display-name><icon src="https://i.imgur.com/3o8Rokp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="KanalV.tr"><display-name>Kanal V</display-name><icon src="https://i.imgur.com/7RNjTno.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KardelenTV.tr"><display-name>Kardelen TV</display-name><icon src="https://i.imgur.com/0RATxcN.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="KibrisGencTV.cy"><display-name>Kibris Genc TV</display-name><icon src="https://i.imgur.com/eBdQn9h.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KibrisKanalT.cy"><display-name>Kibris Kanal T</display-name><icon src="https://i.imgur.com/4bA4pXT.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KibrisTV.cy"><display-name>Kibris TV</display-name><icon src="https://i.imgur.com/5MJZPTo.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KocaeliTV.tr"><display-name>Kocaeli TV</display-name><icon src="https://i.imgur.com/LeTP4zq.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="KonTV.tr"><display-name>Kon TV</display-name><icon src="https://i.hizliresim.com/rafzedu.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="KoyTV.tr"><display-name>Koy TV</display-name><icon src="https://i.imgur.com/RcjEHAG.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="KozaTV.tr"><display-name>Koza TV</display-name><icon src="https://i.imgur.com/jeFTUGp.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="LineTV.tr"><display-name>Line TV</display-name><icon src="https://i.imgur.com/6GNp7f8.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="LuysTV.tr"><display-name>Luys TV</display-name><icon src="https://i.imgur.com/9EruWIQ.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="MaviKaradenizTV.tr"><display-name>MaviKaradeniz TV</display-name><icon src="https://i.imgur.com/wyWappU.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="MeltemTV.tr"><display-name>Meltem TV</display-name><icon src="https://i.imgur.com/C3m6w5S.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="MilyonTV.tr"><display-name>Milyon TV</display-name><icon src="https://i.imgur.com/lEIFDwo.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Number1Ask.tr"><display-name>Number 1 Ask</display-name><icon src="https://i.imgur.com/slwbux7.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Number1Damar.tr"><display-name>Number 1 Damar</display-name><icon src="https://i.imgur.com/rYtbAGZ.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Number1Turk.tr"><display-name>Number 1 Turk</display-name><icon src="https://i.imgur.com/18zjk3q.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><icon src="https://i.imgur.com/02cDIBi.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="On4TV.tr"><display-name>On4 TV</display-name><icon src="https://i.imgur.com/qGRa1KI.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="On6.tr"><display-name>On 6</display-name><icon src="https://i.imgur.com/k7rS2gC.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="PowerTurkTV.tr"><display-name>PowerTurk TV</display-name><icon src="https://i.imgur.com/9OPoXQG.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="PowerTV.tr"><display-name>Power TV</display-name><icon src="https://i.imgur.com/XSL1gd7.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="RumeliTV.tr"><display-name>Rumeli TV</display-name><icon src="https://i.imgur.com/xpRPX3a.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Sat7Turk.cy"><display-name>Sat 7 Turk</display-name><icon src="https://i.imgur.com/cKQIK4i.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="SemerkandTV.tr"><display-name>Semerkand TV</display-name><icon src="https://i.imgur.com/UVGGrQd.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ShowMax.tr"><display-name>Show Max</display-name><icon src="https://i.imgur.com/456FWA7.png"/><url>https://tv.blue.ch</url></channel>
+<channel id="ShowTurk.tr"><display-name>Show Turk</display-name><icon src="https://i.imgur.com/fdZpGDj.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="TarimTV.tr"><display-name>Tarim TV</display-name><icon src="https://i.imgur.com/q30sFms.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TatlisesTV.tr"><display-name>Tatlises TV</display-name><icon src="https://i.imgur.com/et1sbyq.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TAYTV.tr"><display-name>TAY TV</display-name><icon src="http://assets.tvcdn.net/11ab0508-b919-4623-bd4d-08c46946cf8e.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TempoTV.tr"><display-name>Tempo TV</display-name><icon src="https://i.imgur.com/tZpx32y.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TJKTV.tr"><display-name>TJK TV</display-name><icon src="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TMB.tr"><display-name>TMB</display-name><icon src="https://i.imgur.com/28AyWHe.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TV5.tr"><display-name>TV 5</display-name><icon src="https://i.hizliresim.com/68dwaxx.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TV8International.tr"><display-name>TV8 International</display-name><icon src="https://i.imgur.com/Nk43HuV.png"/><url>https://ziggogo.tv</url></channel>
+<channel id="TV52.tr"><display-name>TV 52</display-name><icon src="https://i.imgur.com/k4R5CzO.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV2020.cy"><display-name>TV 2020</display-name><icon src="https://i.imgur.com/rtfsNdd.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="TVDen.tr"><display-name>TV Den</display-name><icon src="https://i.imgur.com/Uhg95Ze.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="UniversiteTV.tr"><display-name>Universite TV</display-name><icon src="https://i.imgur.com/KeauaSh.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="VavTV.tr"><display-name>Vav TV</display-name><icon src="https://i.imgur.com/jw0gB8L.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="WomanTV.tr"><display-name>Woman TV</display-name><icon src="https://i.imgur.com/f2zGoV3.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Yaban.tr"><display-name>Yaban</display-name><icon src="https://i.hizliresim.com/6tmcdyu.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="AdaTV.cy"><display-name>Ada TV</display-name><icon src="https://i.imgur.com/YWmkUWU.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="AgroTV.tr"><display-name>Agro TV</display-name><icon src="https://i.imgur.com/ls9NLa4.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="AltasTV.tr"><display-name>Altas TV</display-name><icon src="https://i.imgur.com/XaJ7fp6.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="ASTV.tr"><display-name>AS TV</display-name><icon src="https://i.imgur.com/MCUjck8.png"/><url>https://dsmart.com.tr</url></channel>
+
